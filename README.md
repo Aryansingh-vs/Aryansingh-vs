@@ -32,8 +32,11 @@ Curious about what’s possible.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,c,rust,git,github,vscode&perline=7" />
-
+<img
+  src="/Users/aryansingh/Downloads/Pasted 2026-11-25 at 8.59.53 PM.png"
+  width="330"
+  alt="Aryan Singh"
+/>
 </div>
 
 ---
