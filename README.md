@@ -1,4 +1,4 @@
-
+<html>
 
 
 
@@ -91,3 +91,10 @@
 <div align="center">
   <h3>💡 Code. Learn. Build. Repeat.</h3>
 </div>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryansingh-vs/Aryansingh-vs/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+</html>
