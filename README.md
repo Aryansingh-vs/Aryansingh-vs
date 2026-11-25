@@ -24,12 +24,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student & developer
-- 💻 Interested in Full-Stack Development, AI & System Programming
-- 🚀 Building projects that solve real-world problems
-- 🌱 Currently exploring React, Node.js, AI & low-level systems
-- 🎯 Goal: Become a skilled software engineer and build impactful technology
-- ⚡ I love turning ideas into working products
+Curious about what’s possible.
 
 </td>
 <td valign="center" width="40%" align="center">
