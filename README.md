@@ -20,8 +20,11 @@ Curious about what’s possible.
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/user-attachments/assets/d244c801-e945-46fe-8749-8c0d1d3edc67" width="330" alt="Aryan Singh" />
-
+<img
+  src="/Users/aryansingh/Downloads/Pasted 2026-11-25 at 8.59.53 PM.png"
+  width="330"
+  alt="Aryan Singh"
+/>
 </td>
 </tr>
 </table>
@@ -32,11 +35,11 @@ Curious about what’s possible.
 
 <div align="center">
 
-<img
-  src="/Users/aryansingh/Downloads/Pasted 2026-11-25 at 8.59.53 PM.png"
-  width="330"
-  alt="Aryan Singh"
-/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,c,rust,git,github,vscode&perline=7" />
+
+</div>
 </div>
 
 ---
