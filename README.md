@@ -20,11 +20,9 @@ Curious about what’s possible.
 
 <td width="40%" align="center" valign="middle">
 
-<img
-  src="/Users/aryansingh/Downloads/Pasted 2026-11-25 at 8.59.53 PM.png"
-  width="330"
-  alt="Aryan Singh"
-/>
+<a href="https://github.com/Aryansingh-vs">
+    <img src="https://img.shields.io/badge/GitHub-Aryansingh--vs-181717?style=for-the-badge&logo=github" />
+  </a>
 </td>
 </tr>
 </table>
