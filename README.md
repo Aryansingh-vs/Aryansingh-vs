@@ -93,10 +93,6 @@
 </div>
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aryansingh-vs/Aryansingh-vs/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
 
 </html>
