@@ -1,20 +1,8 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Aryan Singh
+# Hey, I'm Aryan Singh
 
-### 💻 Developer | Tech Enthusiast | Future Software Engineer
-
-Building things from the ground up — from AI-powered applications to operating systems.
-
-<p>
-  <a href="https://github.com/Aryansingh-vs">
-    <img src="https://img.shields.io/badge/GitHub-Aryansingh--vs-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:singharyan38504@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 </div>
 
@@ -24,12 +12,9 @@ Building things from the ground up — from AI-powered applications to operating
 <tr>
 <td width="60%" valign="middle">
 
-## 👨‍💻 About Me
+## About Me
 
 Curious about what’s possible.
-### ✨ My One Liner
-
-Building technology from the ground up — always learning, always shipping.
 
 </td>
 
@@ -43,7 +28,7 @@ Building technology from the ground up — always learning, always shipping.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -53,23 +38,23 @@ Building technology from the ground up — always learning, always shipping.
 
 ---
 
-## 🚀 My Featured Projects
+## My Featured Projects
 
-### 🖥️ AryOS — Operating System Development
+### AryOS — Operating System Development
 
 Building my own operating system and exploring kernel development, bootloaders, ARM64 architecture and low-level programming.
 
-### 📄 AXION — Invoice Extractor
+### AXION — Invoice Extractor
 
 An invoice processing application designed to extract important invoice information using OCR and simplify invoice management.
 
-### 💰 UdhaarPay — Digital Ledger
+### UdhaarPay — Digital Ledger
 
 A digital ledger application designed to manage transactions, track dues and calculate trust scores.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -90,7 +75,7 @@ A digital ledger application designed to manage transactions, track dues and cal
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="left">
 
@@ -112,7 +97,7 @@ A digital ledger application designed to manage transactions, track dues and cal
 
 <div align="center">
 
-### 💡 Code. Learn. Build. Repeat.
+### Code. Learn. Build. Repeat.
 
 **Thanks for visiting my profile!** ⭐
 
