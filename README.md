@@ -20,7 +20,7 @@ Curious about what’s possible.
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/user-attachments/assets/d244c801-e945-46fe-8749-8c0d1d3edc67" width="330" alt="Aryan Singh" />
+<img src="https://github.com/user-attachments/assets/d244c801-e945-46fe-8749-8c0d1d3edc67" width="430" alt="Aryan Singh" />
 
 </td>
 </tr>
